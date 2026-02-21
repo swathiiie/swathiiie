@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Contributor - Hack The Stack](https://github.com/user-attachments/assets/5712cb54-69fd-44a6-9c6d-483e43130345)
+<img src = "https://github.com/user-attachments/assets/5712cb54-69fd-44a6-9c6d-483e43130345" width = 200px height = 600px>
 
 <!--
 **swathiiie/swathiiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
